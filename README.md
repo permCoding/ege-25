@@ -12,7 +12,7 @@
 
 ### Дистанционные занятия тут:  
 
-[Войти Zoom Конференцию](https://us04web.zoom.us/j/5768558245?pwd=onF4geABMahDkPwjSZoWd2tXZRS0rm.1)  
+[Войти в Zoom Конференцию](https://us04web.zoom.us/j/5768558245?pwd=onF4geABMahDkPwjSZoWd2tXZRS0rm.1)  
 
 > Идентификатор конференции: **576 855 8245**  
 > Код доступа: **1vAGEb**  
