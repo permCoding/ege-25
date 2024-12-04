@@ -31,3 +31,9 @@
 * [Мои задачи на Stepik](https://stepik.org/course/63529/syllabus)  
 
 ---  
+
+Потребуется установить:  
+
+1. [Python + IDLE](https://www.python.org/)  
+
+---  
