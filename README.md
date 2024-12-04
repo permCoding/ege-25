@@ -16,9 +16,9 @@
 
 > Идентификатор конференции: **576 855 8245** ;  Код доступа: **1vAGEb**  
 
-2. [Войти в Яндекс-телемост](https://telemost.yandex.ru/j/05787508074338)  
+2. [Войти в Яндекс-телемост](https://join.skype.com/invite/pquO5j6tFO0g)  
 
-3. [Войти в Skype Конференцию](https://join.skype.com/invite/pquO5j6tFO0g)  
+3. [Войти в Skype Конференцию](https://telemost.yandex.ru/j/05787508074338)  
 
 ```txt
 Чтобы присоединиться к видеовстрече Яндекс.Телемост  
