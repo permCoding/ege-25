@@ -20,5 +20,5 @@ def solve_2():
 P = list(range(4, 16))
 Q = list(range(12, 21))
 
-# solve_1()
-solve_2()
+solve_1()
+# solve_2()
