@@ -15,7 +15,7 @@ def solve_2():
             A = list(range(l, r+1))
             if all(f(A, x) for x in range(10, 30)):
                 res.append(len(A)-1)  # это точки, а -1 это расстояние между точками
-    print(min(res))
+    print(max(res))  # max !!!
     
 P = list(range(10, 30))
 Q = list(range(13, 19))
