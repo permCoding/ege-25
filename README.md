@@ -27,7 +27,8 @@
 ### Для работы потребуется установить:  
 
 1. [Python + IDLE](https://www.python.org/)  
-2. [Наэкранное перо](https://mega.nz/file/YMY2XKRb#vzrBEkSBRx7PhH3Bi5rsrgKXkph_eKDTswUo5rTkC9s)  
+2. [LibreOffice](https://www.libreoffice.org/download/download-libreoffice/)  
+3. [Наэкранное перо](https://mega.nz/file/YMY2XKRb#vzrBEkSBRx7PhH3Bi5rsrgKXkph_eKDTswUo5rTkC9s)  
 
 ---  
 
