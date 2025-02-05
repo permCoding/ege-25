@@ -1,12 +1,14 @@
-n = 19
-
-b = bin(n)[2:]
-if n%3 == 0:
-    b = b + b[-2:]
-else:
-    b = '1' + b + '1'
-
-r = 23
+t = []
+for n in range(1, 300):
+    b = bin(n)[2:]
+    if n%3 == 0:
+        b = b + b[-2:]
+    else:
+        b = '1' + b + '1'
+    r = int(b, 2)
+    if r > 700:
+        t.append(r)
+print(min(t))
 
 """
 1. Строится двоичная запись числа N.
