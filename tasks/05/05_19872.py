@@ -14,7 +14,7 @@ for n in range(1, 1001):
     else:
         s = s[-1] + s[1:-1] + s[0] + '15'
     if len(s) == 4:
-        print(n, s)
+        print(n, s)  # 09999
 
 
 
