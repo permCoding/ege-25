@@ -1,25 +1,22 @@
-def dec_to_bin(dec):
+def dec_to_base(dec, base=2):
     b = ''
     while dec > 0:
-        ost = dec % 2
-        dec = dec // 2
+        ost = dec % base
+        dec = dec // base
         b = str(ost) + b
     return b
 
-m = 17028546
-print(dec_to_bin(m))
-print(bin(m))
-print(oct(m))
-print(hex(m))
+
+m = 152  # 10
+print(dec_to_base(m, 8))  # 230
 
 
-10011100001111
-18446744073709551616
-11111011000111000010
-1000000111101010111000010
 
-9999
-4294967296
+
+
+# print(bin(m))
+# print(oct(m))
+# print(hex(m))
 
 
 """
