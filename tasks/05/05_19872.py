@@ -7,17 +7,23 @@ def dec_to_seven(dec):
     return result
 
 
-for n in range(1, 1001):
+for n in range(1000, 0, -1):
     s = dec_to_seven(n)
     if n%2 == 0:
         s = '52' + s + '1'
     else:
         s = s[-1] + s[1:-1] + s[0] + '15'
-    if len(s) == 4:
+    if len( dec_to_seven(int(s, 7)) ) == 4:
         print(n, s)  # 09999
+        break
 
 
-
+# s = '0006'  # 7
+# s = '0010'  # 7
+# s = '000000000006666'  # 7
+# dec = int(s, 7)
+# s = dec_to_seven(dec)
+# print( s )
 
 # s = 'abcdefgh'  # 8
 
