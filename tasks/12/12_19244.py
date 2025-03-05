@@ -11,7 +11,7 @@ for n in range(4, 10_000):
             s = s.replace('222','3',1)
 
     if sum(int(e) for e in s) == 15:  # сумма цифр в строке
-        print(n)
+        print(n)  # 37
         break
 
 """ 05
