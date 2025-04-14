@@ -30,6 +30,7 @@
 2. [LibreOffice](https://www.libreoffice.org/download/download-libreoffice/)  
 3. [Наэкранное перо](https://mega.nz/file/YMY2XKRb#vzrBEkSBRx7PhH3Bi5rsrgKXkph_eKDTswUo5rTkC9s)  
 4. [VS Code](https://code.visualstudio.com/)  
+5. [КУМИР](https://www.niisi.ru/kumir/dl.htm)  
 
 ---  
 
@@ -272,8 +273,8 @@ __.__. - дорешать самостоятельно задачу 23 с доп
   - решаем задачи 17, 07, 11  
   
 09.04. - ... ср  
-  - повторяем материал  
-  - решаем задачи 17, 07, 11  
+  - выкатили новый вариант - Досрочная волна 2025 - будем его решать  
+  - установим КУМИР и порешаем там задачи 06  
   
 ```
 
